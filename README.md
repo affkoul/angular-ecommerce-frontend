@@ -1,6 +1,6 @@
 # angular-ecommerce-frontend
 
-ReactJS Front-end Responsive Ecommerce Web App With Paypal Payment.
+AngularJS Front-end Ecommerce Web App With Credit Card Payment.
 
 1. Clone the repository code.
 
